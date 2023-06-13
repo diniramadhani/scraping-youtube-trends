@@ -27,6 +27,7 @@ Berikut contoh dokumen pada Mongo DB :
 ## :computer: **Visualisasi**
 
 Berikut link visualisasi dari data yang telah di scraping :
+https://rpubs.com/diniramadhani/1053779
 
 ## :walking: **Pengembang**
 <p align="center" width="100%">
