@@ -3,11 +3,11 @@
 [![scrape_youtube_trend](https://github.com/diniramadhani/scraping-youtube-trends/actions/workflows/main.yml/badge.svg)](https://github.com/diniramadhani/scraping-youtube-trends/actions/workflows/main.yml)
 
 <p align="center" width="100%">
-    <img width="70%" src="[https://kaydee.net/blog/wp-content/uploads/2022/07/what-is-a-hashtag-camel-case-1024x504.png](https://github.com/diniramadhani/scraping-youtube-trends/blob/main/youtube.png)">
+    <img width="70%" src="https://raw.githubusercontent.com/diniramadhani/scraping-youtube-trends/main/youtube.png">
 </p>
 
 <p align="center" width="100%">
-    <img width="70%" src="[[https://kaydee.net/blog/wp-content/uploads/2022/07/what-is-a-hashtag-camel-case-1024x504.png](https://github.com/diniramadhani/scraping-youtube-trends/blob/main/youtube.png)](https://github.com/diniramadhani/scraping-youtube-trends/blob/main/trends.jpg)">
+    <img width="70%" src="https://raw.githubusercontent.com/diniramadhani/scraping-youtube-trends/main/trends.jpg">
 </p>
 
 ## :blue_book: **Eksplor Trending di Youtube**
