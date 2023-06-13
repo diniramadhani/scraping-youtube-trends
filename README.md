@@ -30,6 +30,6 @@ Berikut link visualisasi dari data yang telah di scraping :
 
 ## :walking: **Pengembang**
 <p align="center" width="100%">
-    <img width="70%" src="https://raw.githubusercontent.com/diniramadhani/scraping-youtube-trends/main/youtube.png">
+    <img width="50%" src="https://raw.githubusercontent.com/diniramadhani/scraping-youtube-trends/main/youtube.png">
 </p>
 **Dini Ramadhani, S.Si (G1501221006)**
