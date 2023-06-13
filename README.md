@@ -1,4 +1,4 @@
-# **youtube trends scraping** 
+# **YouTube Trends Scraping** 
 
 [![scrape_youtube_trend](https://github.com/diniramadhani/scraping-youtube-trends/actions/workflows/main.yml/badge.svg)](https://github.com/diniramadhani/scraping-youtube-trends/actions/workflows/main.yml)
 
