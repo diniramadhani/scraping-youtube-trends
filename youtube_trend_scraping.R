@@ -1,6 +1,7 @@
 message('Loading Packages')
 library(rvest)
 library(tidyverse)
+library(mongolite)
 
 message('Scraping Data')
 url<-"https://yttrendz.com/youtube-trends/indonesia"
