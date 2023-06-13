@@ -24,4 +24,4 @@ jobs:
         install.packages("mongolite")
       shell: Rscript {0} 
     - name: Scrape Data youtube_trend
-      run: Rscript youtube trend scraping.R
+      run: Rscript youtube_trend_scraping.R
